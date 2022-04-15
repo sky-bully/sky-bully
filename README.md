@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sky-bully
-- 👀 I’m interested in learning new ways to code but web apps,android app,OpenGL and some blockchain Tech
+- 👀 I’m interested in learning new ways to code web apps,android app,OpenGL and some blockchain Technology 
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on PhD,C++ and python
+- 💞️ I’m looking to collaborate on Php,C++ and python
 - 📫 How to reach me sky-bully on github,LordSkybully on Discord
 
 <!---
